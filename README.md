@@ -1,2 +1,5 @@
-# calculator
-Slick calculator built using HTML, CSS, and JavaScript
+# Retro Themed Calculator
+
+Slick calculator built using HTML, CSS, and JavaScript.
+
+![
